@@ -1,0 +1,1 @@
+# canvas-graduated-opacity-animation
